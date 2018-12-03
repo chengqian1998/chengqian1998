@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>程乾的博客</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2018-12-03T04:38:50.799Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Mr.Cheng发布的信息（1）</title>
+    <link href="http://yoursite.com/2018/12/03/ChengQian2018/"/>
+    <id>http://yoursite.com/2018/12/03/ChengQian2018/</id>
+    <published>2018-12-03T01:24:25.000Z</published>
+    <updated>2018-12-03T04:38:50.799Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="聚丙烯酰胺简介："><a href="#聚丙烯酰胺简介：" class="headerlink" title="聚丙烯酰胺简介："></a>聚丙烯酰胺简介：</h1><ul><li>聚丙烯酰胺，英文名：Polyacrylamide，简称PAM。聚丙烯酰胺是丙烯酰胺（Acrylamide，简称AM）均聚物或与其他单体共聚而得聚合物的统称。<br>聚丙烯酰胺是一种水溶性聚合物，是水溶性高分子中应用最广泛的品种之一，而且兼具絮凝性、增稠性、降阻性、分散性等性能，这些性能随着衍生物离子的不同而各有侧重。聚丙烯酰胺易溶于水而不溶于大多数有机溶剂。<h2 id="一、按离子类型分为："><a href="#一、按离子类型分为：" class="headerlink" title="一、按离子类型分为："></a>一、按离子类型分为：</h2></li><li>非离子聚丙烯酰胺（PAM）</li><li>阴离子离子聚丙烯酰胺（APAM），又称为部分水解聚丙烯酰胺（PHPA）</li><li>阳离子离子聚丙烯酰胺（CPAM）</li><li>两性离子聚丙烯酰胺（ACPAM）<h2 id="二、按按产品形态分为："><a href="#二、按按产品形态分为：" class="headerlink" title="二、按按产品形态分为："></a>二、按按产品形态分为：</h2></li><li>粉状固体</li><li>油包水乳液</li><li>水分散乳液<h2 id="三、按分子量大小分为："><a href="#三、按分子量大小分为：" class="headerlink" title="三、按分子量大小分为："></a>三、按分子量大小分为：</h2></li><li>超高分子量</li><li>高分子量</li><li>中等分子量</li><li>低分子量</li><li>超低分子量</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;聚丙烯酰胺简介：&quot;&gt;&lt;a href=&quot;#聚丙烯酰胺简介：&quot; class=&quot;headerlink&quot; title=&quot;聚丙烯酰胺简介：&quot;&gt;&lt;/a&gt;聚丙烯酰胺简介：&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;聚丙烯酰胺，英文名：Polyacrylamide，简称PAM。聚丙烯酰胺是丙烯酰
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2018/11/30/hello-world/"/>
+    <id>http://yoursite.com/2018/11/30/hello-world/</id>
+    <published>2018-11-30T07:26:27.402Z</published>
+    <updated>2018-11-30T07:26:27.402Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
